@@ -79,35 +79,27 @@
       "date": "2020"
     }
   ],
-  "papers": [
+  "publications": [
     {
-      "name": "DroughtSet: Understanding Drought Through Spatial-Temporal Learning",
-      "publisher": "AAAI Conference on Artificial Intelligence 2025",
-      "releaseDate": "2025",
-      "url": "https://arxiv.org/pdf/2412.15075",
-      "summary": ""
+      "name": "Zur Elektrody/namik bewegter Körper",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-06-30",
+      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
+      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
     },
     {
-      "name": "Federated Learning with Reduced Information Leakage and Computation",
-      "publisher": "Transactions on Machine Learning Research (TMLR)",
-      "releaseDate": "2024",
-      "url": "https://openreview.net/forum?id=ZJ4A3xhADV"
+      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-03-18",
+      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
+      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
     },
     {
-      "name": "Learning to Detect Critical Nodes in Sparse Graphs via Feature Importance Awareness",
-      "publisher": "IEEE Transactions on Automation Science and Engineering",
-      "releaseDate": "2024",
-      "url": "https://ieeexplore.ieee.org/abstract/document/10537134"
-    },
-    {
-      "name": "Prototype Fission: Closing Set for Robust Open-set Semi-supervised Learning",
-      "publisher": "ArXiv",
-      "releaseDate": "2023",
-      "url": "https://arxiv.org/pdf/2308.15575"
-    },
-    {
-      "name": "Exploiting Open-World Data for Adaptive Continual Learning",
-      "publisher": "Under Review"
+      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1916-03-20",
+      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
+      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
   "skills": [
@@ -157,18 +149,28 @@
       "icon": ""
     }
   ],
-  
   "interests": [
     {
-      "name": "Machine Learning / Deep Learning",
+      "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "(Large) Visual-Language Models",
-        "Multi-modal learning",
-        "AI Fairness and Privacy",
-        "Distribution Shifts",
-        "Large Language Models"
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
       ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
     }
   ]
 }
