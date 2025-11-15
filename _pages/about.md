@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "Pronunciation: Shoo-Wei Tan"
+subtitle: " "
 
 profile:
   align: right
