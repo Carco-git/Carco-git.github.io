@@ -4,7 +4,7 @@
 
 title: Xuwei Tan # the website title (if blank, full name will be used instead)
 first_name: Xuwei
-middle_name: 
+middle_name:
 last_name: Tan
 contact_note: >
   GLHF
@@ -157,7 +157,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 # latest_posts:
-#   enabled: 
+#   enabled:
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
 
@@ -623,4 +623,3 @@ third_party_libraries:
       css: "https://cdn.jsdelivr.net/npm/venobox@{{version}}/dist/venobox.min.css"
       js: "https://cdn.jsdelivr.net/npm/venobox@{{version}}/dist/venobox.min.js"
     version: "2.1.8"
-

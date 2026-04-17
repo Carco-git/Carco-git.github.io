@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Nice to meet you! I am currently a Ph.D. Candidate at The Ohio State University, advised by Prof. [Xueru Zhang](https://xueruzhang.github.io/). 
+Nice to meet you! I am currently a Ph.D. Candidate at The Ohio State University, advised by Prof. [Xueru Zhang](https://xueruzhang.github.io/).
 Currently, my research interests lie in (large) visual-language models, multi-modal learning, trustworthy AI (fairness and privacy), and distributional shifts.
 
 Prior to that, I received my Bachelor Degree in Computer Science from East China University of Science and Technology in 2021 and had a short-term study at University of Chinese Academy of Sciences. I was a research assistant at Shanghai Jiao Tong University, where I gladly worked with Prof. [Yangming Zhou](https://scholar.google.com.hk/citations?user=9lhSCdYAAAAJ).
