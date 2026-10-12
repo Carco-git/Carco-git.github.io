@@ -15,13 +15,13 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
+blog_posts: true # includes the list in _data/blog_posts.yml after the papers
 social: true # includes social icons at the bottom of the page
 ---
 
 Nice to meet you! I am currently a Ph.D. Candidate at The Ohio State University, advised by Prof. [Xueru Zhang](https://xueruzhang.github.io/). My research interests include LLM post-training, LLMs for structured data, and trustworthy AI (fairness, robustness, and privacy).
 
 Prior to that, I received my bachelor’s degree in Computer Science from East China University of Science and Technology in 2021. I later enrolled in a master’s program at the University of Chinese Academy of Sciences before pursuing a different academic path. I was also a research assistant at Shanghai Jiao Tong University, where I had the pleasure of working with Prof. [Yangming Zhou](https://scholar.google.com.hk/citations?user=9lhSCdYAAAAJ).
-
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

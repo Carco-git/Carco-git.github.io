@@ -1,0 +1,10 @@
+- title: "Owning Intelligence Series: How Coinbase Built, Evaluated, and Post-Trained a Fraud Agent"
+  venue: Coinbase Engineering Blog
+  date: Oct 2026
+  parts:
+    - title: "Part 1: Build"
+      url: https://www.coinbase.com/blog/part-one-how-coinbase-built-evaluated-and-post-trained-a-fraud-agent
+    - title: "Part 2: Evaluate"
+      url: https://www.coinbase.com/blog/part-two-owning-intelligence-series
+    - title: "Part 3: Own"
+      url: https://www.coinbase.com/blog/part-three-owning-intelligence-series

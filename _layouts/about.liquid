@@ -64,6 +64,22 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Blog posts -->
+    {% if page.blog_posts and site.data.blog_posts %}
+      <h2>Blog Posts</h2>
+      <ul>
+        {% for post in site.data.blog_posts %}
+          <li>
+            <strong>{{ post.title }}</strong> ({{ post.venue }}, {{ post.date }})<br>
+            {% for part in post.parts %}
+              {% if part.url %}<a href="{{ part.url }}" target="_blank" rel="noopener noreferrer">{{ part.title }}</a>{% else %}{{ part.title }}{% endif %}
+              {% unless forloop.last %}·{% endunless %}
+            {% endfor %}
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">
